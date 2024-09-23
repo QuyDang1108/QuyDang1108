@@ -6,8 +6,7 @@
 ![Total Issues](https://img.shields.io/badge/Total%20Issues-42-blue?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Contributed%20To-1%20repo-lightgrey?style=for-the-badge)
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuyDang1108&show_icons=true&theme=radical)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuyDang1108&layout=compact&langs_count=5&theme=radical)
+| GitHub Stats | Top Languages |
+|--------------------------|----------------|
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuyDang1108&show_icons=true&theme=radical) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuyDang1108&layout=compact&langs_count=5&theme=radical) |
