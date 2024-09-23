@@ -1,10 +1,6 @@
 # Dang Quy's GitHub Stats
 
-![Total Stars](https://img.shields.io/badge/Total%20Stars-2-blue?style=for-the-badge)
-![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2024)-221-orange?style=for-the-badge)
-![Total PRs](https://img.shields.io/badge/Total%20PRs-57-green?style=for-the-badge)
-![Total Issues](https://img.shields.io/badge/Total%20Issues-42-blue?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributed%20To-1%20repo-lightgrey?style=for-the-badge)
+|  |  |   |
+|--------------------------|----------------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuyDang1108&show_icons=true&theme=default) |  ![QuyDang1108's Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuyDang1108&theme=default&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuyDang1108&langs_count=5&theme=default&show_icons=true) |
 
-|--------------------------|----------------|
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuyDang1108&show_icons=true&theme=default) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuyDang1108&layout=compact&langs_count=5&theme=default) |
